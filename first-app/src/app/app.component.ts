@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'first-app';
+  title = 'SakshamApp';
+  message = "Angular is a platform for building mobile and desktop web applications. Join the community of millions of developers who build compelling user interfaces";
 }
